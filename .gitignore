@@ -13,3 +13,7 @@ env/
 *.egg-info/
 dist/
 build/
+.claude/
+.planning/
+hello.py
+CLAUDE.md
